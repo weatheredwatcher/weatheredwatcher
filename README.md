@@ -14,6 +14,6 @@
 - 👯 I’m looking to collaborate anything with php really.  I excell at legacy code bases!
 <!-- - 🤔 I’m looking for help with ...  -->
 - 💬 Ask me about DevOps!
-- 📫 How to reach me: 
-- 😄 Pronouns: he/him
+- 📫 How to reach me: <a href="mailto:github@duggins.net">github@duggins.net</a>
+- 😄 Pronouns: he/himt
 - ⚡ Fun fact: I grew up in the former soviet republic of Kazakhstan!
