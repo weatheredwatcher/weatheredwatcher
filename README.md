@@ -1,16 +1,19 @@
+```
+  __      __               __  .__                            ._____      __        __         .__ 
+ /  \    /  \ ____ _____ _/  |_|  |__   ___________  ____   __| _/  \    /  _____ _/  |_  ____ |  |__   ___________
+ \   \/\/   _/ __ \\__  \\   __|  |  \_/ __ \_  __ _/ __ \ / __ |\   \/\/   \__  \\   ___/ ___\|  |  \_/ __ \_  __ \
+  \        /\  ___/ / __ \|  | |   Y  \  ___/|  | \\  ___// /_/ | \        / / __ \|  | \  \___|   Y  \  ___/|  | \/
+   \__/\  /  \___  (____  |__| |___|  /\___  |__|   \___  \____ |  \__/\  / (____  |__|  \___  |___|  /\___  |__|
+        \/       \/     \/          \/     \/           \/     \/       \/       \/          \/     \/     \/
+````
 ### Hi there 👋
 
-<!--
-**weatheredwatcher/weatheredwatcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a site for a non-profit
+- 🌱 I’m currently learning Golang and Rust
+- 👯 I’m looking to collaborate anything with php really.  I excell at legacy code bases!
+<!-- - 🤔 I’m looking for help with ...  -->
+- 💬 Ask me about DevOps!
+- 📫 How to reach me: 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I grew up in the former soviet republic of Kazakhstan!
