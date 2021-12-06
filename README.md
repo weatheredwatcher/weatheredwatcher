@@ -9,7 +9,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a site for a non-profit
+- 🔭 I’m currently working on a Project Management app and some federated services tech.
 - 🌱 I’m currently learning Golang and Rust
 - 👯 I’m looking to collaborate anything with php really.  I excell at legacy code bases!
 <!-- - 🤔 I’m looking for help with ...  -->
