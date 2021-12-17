@@ -1,3 +1,13 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
+
+<style>
+  .logo {
+  font-family: 'Special Elite', cursive;
+  font-size: 20pt;
+  }
+</style>
 <pre>
   __      __               __  .__                            ._____      __        __         .__ 
  /  \    /  \ ____ _____ _/  |_|  |__   ___________  ____   __| _/  \    /  _____ _/  |_  ____ |  |__   ___________
@@ -6,6 +16,8 @@
    \__/\  /  \___  (____  |__| |___|  /\___  |__|   \___  \____ |  \__/\  / (____  |__|  \___  |___|  /\___  |__|
         \/       \/     \/          \/     \/           \/     \/       \/       \/          \/     \/     \/
 </pre>
+
+<span class="logo">weatheredwatcher</span>
 ### Hi there 👋
 
 
