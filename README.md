@@ -17,3 +17,5 @@
 - 📫 How to reach me: <a href="mailto:github@duggins.net">github@duggins.net</a>
 - 😄 Pronouns: he/himt
 - ⚡ Fun fact: I grew up in the former soviet republic of Kazakhstan!
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=weatheredwatcher&theme=cobalt" />
