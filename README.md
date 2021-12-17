@@ -9,7 +9,7 @@
 
 <span class="logo">weatheredwatcher</span>
 ### Hi there 👋
-
+<img src="./weatheredwatcher.svg" alt="" /> 
 
 - 🔭 I’m currently working on a Project Management app and some federated services tech.
 - 🌱 I’m currently learning Golang and Rust
