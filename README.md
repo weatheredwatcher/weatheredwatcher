@@ -18,6 +18,8 @@
 - 😄 Pronouns: he/himt
 - ⚡ Fun fact: I grew up in the former soviet republic of Kazakhstan!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=weatheredwatcher&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+[![David Duggins' GitHub stats](https://github-readme-stats.vercel.app/api?username=weatheredwatcher)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weatheredwatcher&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
