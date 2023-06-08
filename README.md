@@ -18,7 +18,7 @@
 <!-- - 🤔 I’m looking for help with ...  -->
 - 💬 Ask me about DevOps!
 - 📫 How to reach me: <a href="mailto:github@duggins.net">github@duggins.net</a>
-- 😄 Pronouns: he/himt
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I grew up in the former soviet republic of Kazakhstan!
 
 
