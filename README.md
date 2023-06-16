@@ -13,6 +13,7 @@
 ### Hi there 👋
 
 - 🔭 I am a PHP Developer. I make things with Symfony
+- ⚡ I am an experinced Linux System Admin (Debian, Ubuntu, RedHat) 
 - 🌱 I am a Free Software Collaborator.  
 - 👯 I would love to talk with you about your server stacks!
 - 🤔 My next big goal is to finally become a Debian Developer!
