@@ -7,9 +7,6 @@
         \/       \/     \/          \/     \/           \/     \/       \/       \/          \/     \/     \/
 </pre>
 
-<img src="./weatheredwatcher.svg" alt="" /> 
-
-
 ### Hi there 👋
 
 - 🔭 I am a PHP Developer. I make things with Symfony
