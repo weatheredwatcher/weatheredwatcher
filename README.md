@@ -19,4 +19,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I grew up in the former soviet republic of Kazakhstan!
 
-
+<img src="./weatheredwatcher.svg" />
