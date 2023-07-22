@@ -2,7 +2,7 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 
-			<def>
+			<defs>
 				<style>
 			/* latin */
 @font-face {
@@ -23,7 +23,7 @@
 					letter-spacing: 5px;
 				}
 			</style>
-			</def>
+			</defs>
 			<div class="container">
 				<h1>weatheredwatcher</h1>
 			</div>
