@@ -13,3 +13,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I grew up in the former soviet republic of Kazakhstan!
 
+### My blog:
+[![Deploy Jekyll site to Pages](https://github.com/weatheredwatcher/weatheredwatcher.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/weatheredwatcher/weatheredwatcher.github.io/actions/workflows/jekyll.yml)
